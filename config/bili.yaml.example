@@ -1,0 +1,17 @@
+# B 站 Cookie，登录后从浏览器复制，用于获取更高画质和避免风控
+cookie: ""
+
+# 视频最大时长（秒），超过只发送预览和链接
+max_duration: 600
+
+# 是否解析专栏
+parse_article: true
+
+# 专栏正文最大字符数
+max_chars: 2000
+
+# 专栏最多附带图片数
+max_images: 3
+
+# 请求超时（毫秒）
+timeout: 15000

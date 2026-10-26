@@ -1,0 +1,18 @@
+{
+  "name": "yunzai-plugin-bili",
+  "version": "1.0.0",
+  "description": "Yunzai Bot 的 B 站链接自动解析插件，支持视频、专栏、动态以及 QQ 分享卡片",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "yunzai",
+    "yunzai-bot",
+    "bilibili",
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

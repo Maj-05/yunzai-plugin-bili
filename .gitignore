@@ -1,0 +1,4 @@
+node_modules/
+config/bili.yaml
+*.log
+.DS_Store
